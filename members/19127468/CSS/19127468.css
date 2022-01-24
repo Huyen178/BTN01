@@ -1,0 +1,37 @@
+.Info_heading
+{
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 32pt;
+    color: #3d9cfa;
+    margin-bottom: 8pt;
+}
+body 
+{
+    background-color: #e6ffff;
+}
+.Members_image 
+{
+    position: fixed;
+    left: 500px;
+    top: 40px;
+    border-radius: 10px;
+}
+.BackBtn 
+{
+    background-color:#66ccff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13pt;
+    color: white;
+    width: 150px;
+    height: 50px;
+} 
+.Info 
+{
+    font-family: "Arial";
+    font-size: 16pt;
+}
